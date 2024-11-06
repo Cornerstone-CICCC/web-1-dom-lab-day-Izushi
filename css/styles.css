@@ -52,4 +52,16 @@ body {
   padding: 0.25rem;
 }
 
+#employees thead {
+  background-color: grey;
+}
+#employees thead th {
+  padding: 1.5rem;
+}
+
+#employeeList img {
+  width: 100px;
+  height: 100px;
+}
+
 /*# sourceMappingURL=styles.css.map */

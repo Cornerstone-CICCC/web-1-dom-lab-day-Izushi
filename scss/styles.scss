@@ -57,3 +57,19 @@ body {
     }
   }
 }
+
+#employees {
+  thead {
+    background-color: grey;
+    th {
+      padding: 1.5rem;
+    }
+  }
+}
+
+#employeeList {
+  img {
+    width: 100px;
+    height: 100px;
+  }
+}
